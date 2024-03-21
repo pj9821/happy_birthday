@@ -1,5 +1,5 @@
 {
-  "name": "happy-birthday",
+  "name": "happy_birthday",
   "version": "1.0.0",
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/pj9821/happy_birthday.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "Pravash Jha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/pj9821/happy_birthday"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/pj9821/happy_birthday#readme",
   "dependencies": {}
 }
